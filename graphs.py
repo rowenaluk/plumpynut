@@ -5,7 +5,7 @@
 
 
 
-#this is to register my name here..they call me root
+#this is to register mththththy name here..they call me root
 
 from django.core.management import setup_environ
 from webui import settings
