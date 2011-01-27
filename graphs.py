@@ -5,7 +5,7 @@
 
 
 
-#this is to register my name here..they call me root
+#this is to register my name here..they call me rowena
 
 from django.core.management import setup_environ
 from webui import settings
