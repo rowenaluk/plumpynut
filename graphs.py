@@ -3,6 +3,10 @@
 
 
 
+
+
+#this is to register my name here..they call me root
+
 from django.core.management import setup_environ
 from webui import settings
 setup_environ(settings)
