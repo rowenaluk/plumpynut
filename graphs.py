@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # vim: noet
 
+
+
 from django.core.management import setup_environ
 from webui import settings
 setup_environ(settings)
